@@ -1,6 +1,6 @@
 # Playground
 
-CS107/AM205
+Yuxin is taking CS107/AM205
 
 A place to play with `git`.
 
