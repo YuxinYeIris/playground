@@ -1,6 +1,6 @@
 # Playground
 
-Arthur ruins everything
+Arthur ruins nothing
 
 A place to play with `git`.
 
