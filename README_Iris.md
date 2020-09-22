@@ -1,6 +1,6 @@
 # Playground
 
-Arthur ruins nothing
+Iris fix things.
 
 A place to play with `git`.
 
